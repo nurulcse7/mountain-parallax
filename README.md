@@ -1,4 +1,19 @@
+# Mountain Parallax
 
+#### Live link [Click here]()
+
+#### Code link [Click here](https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-nurulcse7)
+
+### Description
+
+- This project start with create-react-app
+- Implement UI
+- Every section completed after code push on GitHub
+
+### Technology
+
+- JavaScript
+- React.js
 
 <!--
 # Getting Started with Create React App
