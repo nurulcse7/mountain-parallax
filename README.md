@@ -1,8 +1,8 @@
 # Mountain Parallax
 
-#### Live link [Click here]()
+#### Live link [Click here](https://netlify-mountain-parallax.netlify.app/)
 
-#### Code link [Click here](https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-nurulcse7)
+#### Code link [Click here](https://github.com/nurulcse7/mountain-parallax)
 
 ### Description
 
